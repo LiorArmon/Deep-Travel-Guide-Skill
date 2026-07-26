@@ -513,11 +513,25 @@ Explain when spending more genuinely improves the experience and when it offers 
 
 Recommend splitting accommodation only when it meaningfully improves the trip.
 
+## Classify each destination, and name actual places
+
+For each destination or base, classify how much accommodation matters to the experience there, and say so plainly with a short reason:
+
+- **Worth the splurge** — the room or property is genuinely part of the experience (a view, a historic building, a destination hotel), and spending more here measurably improves the trip.
+- **Comfort matters** — real time is spent here; a good mid-range place earns its cost, but a splurge isn't necessary.
+- **Just a bed** — a short or transit stay; prioritize value and convenience over character.
+
+Then give real, named examples across price tiers — not a description of neighborhoods in place of actual recommendations. A short table works well: tier, typical price range, and one or two specific named properties with a reason each is the pick for that tier (a view, a historic building, a standout of its kind). Where a genuine splurge option exists, explain concretely what it buys — a Michelin-starred restaurant on site, a clifftop position, a centuries-old building — not just "nicer rooms."
+
+Also note, briefly, how far ahead to book for that destination specifically (some places have far tighter accommodation supply than others) and a reasonable fallback location if the first choice is full.
+
 ---
 
 # Photography
 
 Include photography guidance **only when photography is likely to be a meaningful part of experiencing that destination.**
+
+When it is, prefer short inline callouts at the specific stop where they apply — a couple of sentences right where the traveler encounters that view or scene — over one long centralized chapter covering the whole trip in the abstract. "This viewpoint rewards side-lighting at dawn" is more useful attached to that viewpoint than filed away in a general Photography chapter the traveler has to cross-reference. A short standalone Photography section can still work for genuinely trip-wide advice (general light patterns for the season, gear notes) that doesn't belong to any one stop — use both when both earn their place.
 
 When appropriate, highlight:
 
@@ -561,6 +575,10 @@ Keep them concise and directly connected to the place the traveler is encounteri
 
 The goal is to deepen appreciation in the moment—not turn the guide into a history textbook.
 
+## Local Knowledge
+
+Alongside historical and cultural context, weave in small practical tips at the exact point they're relevant — the kind of thing a local would mention in passing: a car park that fills by mid-morning, a café that keeps seasonal hours, a spot with no mobile signal, a place with no ATM. This is different from the centralized Practicalities chapter, which should hold the general, trip-wide logistics (transit cards, tipping norms, connectivity) — the specific, stop-level tips belong right next to the stop they apply to, not filed away in a chapter the traveler has to remember to check. A single bolded "Local knowledge:" line per stop is usually enough.
+
 ---
 
 # Food
@@ -602,6 +620,17 @@ Only if the traveler has extra time or a specific personal interest.
 These ratings represent importance **within this itinerary**, not objective quality — they're comparative against the other experiences available on this specific trip, not against every attraction in the world. A famous landmark can rate lower than a neighborhood walk or a small bakery, if the bakery is genuinely the richer experience for this traveler on this trip. Don't hesitate to say a well-known attraction is overcrowded, surprisingly brief, more rewarding from the outside than in, or better as a "worth seeing but don't build your day around it" than an essential — when the research and the actual experience support that conclusion. Editorial honesty about a famous place's real value matters more than reproducing the itinerary every other guide gives it. This isn't contrarianism for its own sake; it's the same standard applied honestly regardless of a place's reputation.
 
 Whenever appropriate, include realistic visit time estimates.
+
+## Time Commitment Icons
+
+Pair the star rating with a simple time-block icon when a trip has enough discrete stops that scanning matters — road trips, multi-stop days, itineraries with many comparable options per base. This tells a traveler at a glance how much of a day something actually costs, separate from how good it is:
+
+- 🟢 Quick stop — 15–45 minutes
+- 🟡 Half day — roughly 1–3 hours all in
+- 🟠 Most of the day — roughly 3–6 hours, shapes the rest of the day
+- 🔴 Full day commitment — plan around it, not alongside it
+
+Base the icon on the realistic total block an activity consumes — travel, parking, lingering — not the official duration alone. Skip this system entirely for guides where it wouldn't add anything: a single-city trip built around one or two anchors a day doesn't need it, while a base with many comparable candidate stops benefits from it a great deal.
 
 ---
 
@@ -679,6 +708,7 @@ When they improve the guide, include editorial features such as:
 
 - Top 10 Moments of the Trip
 - One Good Weather Day
+- Weather Swap
 - Slow Down Here
 - Sit and Stay a While
 - Skip Without Regret
@@ -686,6 +716,14 @@ When they improve the guide, include editorial features such as:
 These are editorial tools—not mandatory sections.
 
 Reach for them whenever they'd genuinely help a traveler decide or feel better about a trade-off — err toward using one when it's earned rather than saving the idea for a single moment in the guide. A guide with real trade-offs to navigate should have several of these scattered through it, not one token example. They still shouldn't appear where nothing is genuinely being decided.
+
+## One Good Weather Day, applied consistently where it matters
+
+For any trip where weather (or another limiting condition — short daylight, a narrow opening window) could genuinely wash out part of a multi-day base, this isn't just an occasional nice-to-have — apply it to every such base, in one sentence: if only a single good day materializes here, what's the one thing to do with it? This is the base-level counterpart to the Top 10 Moments' whole-trip resilience thinking, and it earns the same consistency once it's clearly relevant to the trip.
+
+## Weather Swap
+
+Pair any view-dependent or condition-dependent experience with its real alternative for when conditions don't cooperate — a high viewpoint that's pointless in cloud gets a lower, sheltered alternative named right next to it; an exposed mountain pass gets the safer coastal detour. State plainly when the primary option simply isn't worth doing in bad conditions, rather than leaving the traveler to discover that on the day.
 
 ## Top 10 Moments as the Trip's Resilience Core
 
@@ -718,6 +756,8 @@ Every recommendation should answer:
 - Why now?
 
 Use tables only when they improve readability.
+
+When a trip has several genuinely comparable instances of the same activity type — hikes, historic sites, wineries, beaches, temples, whatever the trip's recurring category is — build a compact "at a glance" comparison table for that category: name, location, one differentiating dimension (difficulty, duration, or whatever matters most), the priority rating, and one practical note each. This is a different, denser function than the narrative itinerary entries — it's the reference view a traveler returns to mid-trip to decide between options, and it earns a place alongside the narrative treatment rather than instead of it.
 
 Avoid repetition.
 
@@ -754,6 +794,14 @@ Guide voice (aim for this):
 > *Skip without regret:* the water puppet show. Charming once, forgettable twice, and it eats an evening you'd spend better at a night market.
 
 The second version makes a decision, gives a reason, and trusts the traveler with an opinion. Match that register throughout — specific timing, a stated reason, and a clear stance, rather than a list of adjectives.
+
+**Density should match the number of options in play.** A day or base built around one or two real anchors earns the fuller narrative treatment above. A base with several comparable candidate stops — common on road trips, multi-activity bases, or any day with genuine choice between options — is better served compressed into a single dense line each: the star rating, a time icon if the guide is using one, a bolded name, and one sharp clause of reasoning, rather than a full paragraph per option. For example:
+
+> ★★★ 🟡 Standing on the Quiraing at dawn, before the car park fills — the single most cinematic hour on the trip.
+> ★★☆ 🟡 Neist Point at sunset — sit on the grass above the lighthouse rather than heading straight back to the car.
+> – 🟡 Old Man of Storr and the Fairy Pools — undeniably beautiful, but busy enough that the discovery is mostly gone.
+
+This isn't a lesser treatment; it's the right format for a traveler scanning several real options at once. Reserve full paragraphs for the genuine anchors that deserve the extra space, and let supporting options stay terse.
 
 ---
 
@@ -813,7 +861,7 @@ Before creating the document:
 
 1. Read `/mnt/skills/public/docx/SKILL.md` and follow it for document creation — it covers headings, styling, and formatting conventions and takes precedence over generic formatting habits.
 2. Structure the document with proper Word heading levels (not markdown `#` symbols) so it produces a usable, navigable document — a table of contents is worth including for guides with several chapters.
-3. Give star ratings and booking-urgency markers their own visual presence (bold, distinct symbol, or a dedicated table column) so they're scannable at a glance. Give editorial callout boxes (Skip Without Regret, Slow Down Here, Sit and Stay a While, etc.) a shaded cell background or colored border — a plain-bordered table indistinguishable from the Budget or Quick Facts tables does not count as visually distinct. The callout should look different from ordinary reference tables at a glance, not just read differently.
+3. Give star ratings, time-commitment icons, and booking-urgency markers their own visual presence (bold, distinct symbol, or a dedicated table column) so they're scannable at a glance. Give editorial callout boxes (Skip Without Regret, Slow Down Here, Sit and Stay a While, etc.) a shaded cell background or colored border — a plain-bordered table indistinguishable from the Budget or Quick Facts tables does not count as visually distinct. The callout should look different from ordinary reference tables at a glance, not just read differently. "At a glance" comparison tables (see Editorial Standards) should read as genuine reference tables — clean columns, no merged or nested formatting that would break when the traveler is scanning it quickly on a phone.
 4. Keep tables genuinely necessary (e.g. a budget breakdown, a booking-priority list) — do not convert prose recommendations into tables just because a table is available.
 5. Save the finished file to the outputs directory and present it as the final deliverable. Do not paste the full guide into the chat response itself; a short summary of what's in the guide is enough, with the document doing the rest of the work.
 6. Compose the guide's full content before writing the document, rather than building it through many small incremental edits — draft the sections, then produce the file in as few write operations as practical. Research and drafting are where the depth belongs; document assembly should be quick.
