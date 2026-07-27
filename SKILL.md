@@ -5,7 +5,7 @@ description: "Generate deeply researched, beautifully curated travel guides with
 
 # Deep Travel Guide
 
-**Version 3.0**
+**Version 3.5**
 
 ---
 
@@ -86,6 +86,12 @@ When a section type repeats — itinerary bases, city chapters, accommodation en
 
 This pairs with giving every category of information one home rather than scattering it: local practical tips belong in Local Knowledge, weather contingencies in Weather Swap, photo advice in Photography callouts, historical explanation in context boxes, booking urgency in booking guidance. Once something has a home, don't also restate it in the itinerary prose unless doing so genuinely improves clarity in that specific spot — repetition across sections adds length without adding value.
 
+## Guide Structure — Typical Chapters
+
+Build the guide around the destination, not a fixed outline. Typical sections: Introduction, Quick Facts, Top 10 Moments, Best Time to Visit, Budget, Before You Go, Practicalities, Packing, Accommodation, Getting Around, Food, Photography, Regional or City Chapters, Itinerary, Alternatives, Shopping, Final Tips, Useful Links.
+
+Include only the chapters that genuinely improve this particular guide — with the exception of Accommodation, Food, Budget, Before You Go, Practicalities, and Priorities, which belong in every guide regardless of theme (per their own sections later in this document). The judgment call is about the more situational chapters — Photography, Shopping, Alternatives, a dedicated Getting Around chapter — not about dropping the standing ones.
+
 ---
 
 # Guide Length & Depth Calibration
@@ -111,6 +117,8 @@ The itinerary exists to support a memorable trip, not the other way around. Neve
 Research broadly before recommending: history, geography, culture, climate, transportation, cuisine, neighborhoods, seasonality, festivals, safety, common mistakes, local customs, current realities.
 
 When several similar attractions exist, confidently recommend the one that best represents the experience unless an alternative is genuinely, meaningfully different — don't present multiple equally good options just to seem comprehensive. This applies equally to businesses: a specific café, bakery, restaurant, pub, hostel, hotel, activity operator, route, or viewpoint deserves a named recommendation when a genuine standout is known, not a genre description standing in for one. "Look for a traditional bakery nearby" is right only when nothing specific has actually been identified; when something has, name it. The test: is this the one you'd tell a friend to go to, or a placeholder for "something in this category exists"?
+
+**Research by experience category, not just by destination.** Some destinations organize around recurring experience types rather than one canonical list — Kyoto's temples, a Highland trip's day hikes, Vegas's shows. Where that structure exists, research the category itself: "Zen temples in Kyoto" surfaces real options that "best things to do in Kyoto" won't, since the latter just returns the existing canon. This is what gives Same Magic Fewer Crowds and the Priorities fame-rule real alternatives to work with, rather than nothing beyond the obvious pick — research broadly within the category, then curate narrowly in the writing, same discipline as always. Apply this only where a destination genuinely has this structure; don't manufacture a category for a single unmissable site (Petra) or a place too small to have one.
 
 Confidence is more valuable than completeness — and it should come from informed judgment, not fabricated certainty. When something genuinely varies too much for a confident answer (a live venue's current lineup, a restaurant after a chef change, a temporary exhibition), say so honestly rather than inventing a pick to sound authoritative. A guide that only ever hedges is failing at confidence; a guide that always has an answer is failing at honesty.
 
@@ -256,14 +264,6 @@ When sequencing, consider: **Anticipation** — some experiences land harder whe
 
 ---
 
-# Guide Structure
-
-Build the guide around the destination, not a fixed outline. Typical sections: Executive Summary, Quick Facts, Top 10 Moments, Best Time to Visit, Budget, Before You Go, Practicalities, Packing, Accommodation, Transportation, Food, Photography, Regional or City Chapters, Itinerary, Alternatives, Shopping, Final Tips, References.
-
-Include only the chapters that genuinely improve this particular guide — with the exception of Accommodation, Food, Budget, Before You Go, Practicalities, and Priorities, which belong in every guide regardless of theme (per their own sections above). The judgment call is about the more situational chapters — Photography, Shopping, Alternatives, a dedicated Transportation chapter — not about dropping the standing ones.
-
----
-
 # Editorial Decision Support
 
 Editorial tools — not mandatory sections — to reach for whenever they'd genuinely help a traveler decide or feel better about a trade-off: Top 10 Moments of the Trip, One Good Weather Day, Weather Swap, Same Magic Fewer Crowds, What You're Actually Paying For, Slow Down Here, Sit and Stay a While, Skip Without Regret. Err toward using one when it's earned rather than saving the idea for a single moment — a guide with real trade-offs should have several scattered through it, not one token example. They still shouldn't appear where nothing is genuinely being decided.
@@ -324,9 +324,9 @@ Then ask the question that matters most: **if someone printed this guide and car
 
 ---
 
-# Reference Guide Support
+# Useful Links
 
-End with a concise reference section — official booking sites, transit planners, weather services, tourism boards, mapping tools, language resources, emergency contacts. Include only genuinely useful links; don't overwhelm the traveler.
+End with a concise Useful Links section — official booking sites, transit planners, weather services, tourism boards, mapping tools, language resources, emergency contacts. Include only genuinely useful links; don't overwhelm the traveler.
 
 ---
 
