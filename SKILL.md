@@ -5,7 +5,7 @@ description: "Generate deeply researched, beautifully curated travel guides with
 
 # Deep Travel Guide
 
-**Version 3.5**
+**Version 3.7**
 
 ---
 
@@ -63,6 +63,8 @@ Four common guide types:
 ## Expedition Guide
 Best for road trips, hiking expeditions, island hopping, long-distance routes, national parks. Primary structure: movement between locations.
 
+For a genuinely car-centric trip — a road trip, long inter-base drives, a trip shaped by mobility needs — the route between bases is itself part of the itinerary, not blank transit time. When a specific alternative to the fastest route is genuinely more rewarding, name it specifically: the road, what makes it better, the extra time it costs. "Better" can mean real views, worthwhile stops along the way even if the road itself is unremarkable, or the drive itself being distinctive (a notable tunnel, an unusual piece of engineering) — not just scenery. Name real en-route stops — a specific village, a specific viewpoint — with enough detail to find them. Apply this only when the trip is genuinely car-centric and the route or stop is honestly better, not just different; an unremarkable "scenic" road is worse than no mention at all.
+
 ## Regional Guide
 Best for trips spanning multiple regions. Each region gets an overview, highlights, logistics, recommended stay, and local advice before transitioning into the itinerary.
 
@@ -79,6 +81,12 @@ Some trips have a dominant theme — football, food, hiking, photography, a spec
 ## Traveling with Kids
 
 Apply this only when the trip explicitly involves children — a solo or adult-only trip should never see nap windows, kid menus, or age-appropriateness notes folded in speculatively. When it does apply, reshape the standing sections rather than skipping them: **Pacing** — shorter distances, an earlier end to the day, room for naps where ages call for it (one highlight and genuine rest, not highlight-plus-secondary). **Accommodation** — weigh a kitchenette or laundry access, enough space, a pool, proximity to a playground, often above nightlife or scenic value. **Food** — note what realistically works with kids alongside the trip's normal recommendations, not instead of them. **Priorities** — age-appropriateness is a real dimension; note when an Essential experience needs a different version for younger children or doesn't work below a certain age. **Practicalities** — stroller accessibility, changing facilities, where to find diapers/formula/medicine, what to do if a child needs a doctor. Throughout, protect the trip for the parents too — the point is a family trip to Japan or Scotland that still feels like *that trip*, not an itinerary of survival mode.
+
+## Traveling with Reduced Mobility
+
+Apply this only when the trip explicitly says mobility is limited — by age, injury, or condition, never assumed from age alone. Default to flat, ground-level, lift-accessible options over hilltop viewpoints and stairs, stated once as policy rather than repeated at every stop. Where a genuine standout involves stairs or a climb, split it rather than dropping it: name what the ground floor or courtyard alone offers, and let whoever wants the fuller version go up independently while the other waits nearby — the choice belongs to each person, not the group. Flag real climbs plainly with Skip Without Regret. Verify accommodation specifics that matter here — lifts, level access, parking distance — alongside the usual dimensions, and keep an eye on realistic distances between parking and each day's first sight. Note a packing item like a folding seat-stick where relevant.
+
+Neither traveler should feel the trip cost them something: the more mobile traveler's experience shouldn't feel reduced to accommodate the other, and the less mobile traveler shouldn't feel blamed for holding the trip back or stuck with lesser options. The split-ticket approach exists precisely so neither version reads as the consolation prize.
 
 ## Consistent Micro-Structure
 
@@ -214,7 +222,7 @@ Rather than one large history chapter, weave short contextual callouts (history,
 
 Not everything needs the same depth. A passing clause is enough when a mention doesn't need real explanation to land — "a hidden valley tied to the 1692 Massacre" works as a bullet fragment if the name-check itself is the point. But when understanding the actual story would genuinely change how the traveler experiences the place, give it a real explanatory box: roughly 100–300 words depending on how much the story warrants — a genuinely rich story can earn the fuller end of that range. The technique that makes these land: end by tying the history, geology, or culture to what the traveler will physically notice right there — "the same approach you'll climb today," "the whole landscape is a slow-motion landslide you happen to be walking across." A box that only recounts history reads like an encyclopedia entry; one that connects it to the present-moment experience reads like a guide. Title it plainly — "Understanding [the feature]" or "Understanding This Place."
 
-This should stay rare and earned, not one per attraction — roughly one per base is a reasonable ceiling, not a target. Reserve it for the handful of places where the history, geology, or culture is genuinely part of what makes that specific experience worth having.
+This should stay rare and earned, not one per attraction — roughly one per base is a reasonable ceiling, not a target. Reserve it for the handful of places where the history, geology, or culture is genuinely part of what makes that specific experience worth having. When a traveler has named a specific personal interest in a place with dramatic or significant history — a battle site, a major turning point — that interest is exactly what earns the fuller box, not a passing clause. Real depth is how the guide takes the interest seriously, not just includes it.
 
 ## Local Knowledge
 
@@ -226,13 +234,19 @@ Alongside historical context, weave in small practical tips at the exact point t
 
 Always include real food guidance, regardless of theme — everyone eats, and how a traveler eats shapes the trip whether the guide addresses it or not. This can be short and should reflect the trip's actual character — a football trip's honest food chapter is pub food and match-day pints, not a tasting menu — but it should be real guidance (specialties worth seeking out, how meals fit the day's rhythm, ordering customs, what the food reveals about the place), not a dismissal folded into the budget section.
 
+Give at least one food moment across the whole trip the same treatment as a top attraction — not one per base, and not forced where food isn't central to the destination: a specific place when a standout is known, or a specific dish in a vivid setting when it isn't ("eaten standing at a smokehouse counter by the water," not just "smoked fish is worth seeking out"). Food-forward destinations (Japan, Italy) can extend this to several real moments; where food genuinely isn't a major draw, naming typical dishes and why they're typical is enough — don't manufacture a moment that isn't there.
+
+Naming specific restaurants throughout — not just the one required food moment — is normal and expected wherever a standout is verified, the same as any other business recommendation. Frame it as a good option, not the option: "try the smoked fish at X on the lake," not language implying it's the definitive place to eat. This is separate from the FOMO-protection devices, which only cover overhyped or crowd-ruined cases — the ordinary fix here is simply wording any single pick as one good option among others, so missing it never reads as missing the real answer.
+
+Where a specialty varies by region — the type of fish, cut, or preparation differs by area — name which version is typical where, not just the category. In any non-English-speaking country, give the local-language name for the dish or ingredient so a traveler can recognize or order it from a menu.
+
 ---
 
 # Priorities
 
 This system applies to every guide, regardless of theme — a stadium tour or a match gets a star rating exactly like a museum would. A theme-specific tag (marking matchdays, say) can coexist with it but never substitutes for it. Use it wherever it genuinely helps a traveler decide — not only itinerary attractions, but a standout restaurant, a neighborhood, an activity operator, or an accommodation choice when ranking against alternatives would help. Don't force it where there's only one obvious choice.
 
-**★★★ Essential** — one of the defining experiences of *this specific trip*, not a place that's internationally famous, iconic, or in every guidebook. Fame and importance are different things that get conflated easily; this rating has to be earned by the quality of the actual experience. Use sparingly — before finalizing, review every ★★★ and ask whether it genuinely belongs among the handful of defining experiences of the whole trip, or got the top rating mainly because it's the thing everyone visits. If the latter, it's probably ★★☆.
+**★★★ Essential** — one of the defining experiences of *this specific trip*, not a place that's internationally famous, iconic, or in every guidebook. Fame and importance are different things that get conflated easily; this rating has to be earned by the quality of the actual experience. Use sparingly — before finalizing, review every ★★★ and ask whether it genuinely belongs among the handful of defining experiences of the whole trip, or got the top rating mainly because it's the thing everyone visits. If the latter, it's probably ★★☆. A common failure: giving each region its own automatic ★★★, so the trip ends up with one per stop instead of a genuine handful for the whole journey. The comparison has to hold across the entire trip — it's fine, often correct, for some bases to have no ★★★ at all.
 
 **★★☆ Strongly Recommended** — excellent experiences that significantly enrich the trip.
 
@@ -333,6 +347,8 @@ End with a concise Useful Links section — official booking sites, transit plan
 # Output Format & Delivery
 
 The finished guide is always delivered as a **Word document (.docx)** — the deliverable the traveler carries, not a chat response.
+
+When the guide is written in a right-to-left language (Hebrew, Arabic), set right-to-left paragraph direction and right alignment explicitly — this doesn't happen by default, and left-aligned RTL text reads as visibly wrong. Give place and venue names with the destination's actual local-language name in parentheses — not the English name, unless English genuinely is the local language: a Polish castle gets "(Zamek w Malborku)," not "(Malbork Castle)." The point is matching what a traveler will actually see on a sign or hear from a local.
 
 Before creating the document:
 
