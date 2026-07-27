@@ -5,7 +5,7 @@ description: "Generate deeply researched, beautifully curated travel guides with
 
 # Deep Travel Guide
 
-**Version 3.8**
+**Version 3.9**
 
 ---
 
@@ -51,6 +51,8 @@ Work in this order — don't skip steps:
 Before planning, identify: destination, trip length, season/dates, transportation, budget level, travel style, interests, physical limitations, pace preferences, first visit vs. repeat, solo/couple/family/group, and — if traveling with children — their ages.
 
 Infer reasonable assumptions where possible and state them briefly rather than blocking on them. Ask questions only if missing information would materially change the guide, and prefer offering a short set of concrete options over an open-ended question — "budget / mid-range / comfort / luxury" is easier to answer than "what's your budget?"
+
+When a trip could reasonably go several genuinely different directions and the traveler has no strong preference, state briefly why this shape won out — especially when a concrete factor (season, logistics, already-covered territory) makes it stronger than it looks. A traveler with no stated bias still deserves to know the choice was deliberate, not arbitrary.
 
 ---
 
@@ -126,7 +128,7 @@ Research broadly before recommending: history, geography, culture, climate, tran
 
 When several similar attractions exist, confidently recommend the one that best represents the experience unless an alternative is genuinely, meaningfully different — don't present multiple equally good options just to seem comprehensive. This applies equally to businesses: a specific café, bakery, restaurant, pub, hostel, hotel, activity operator, route, or viewpoint deserves a named recommendation when a genuine standout is known, not a genre description standing in for one. "Look for a traditional bakery nearby" is right only when nothing specific has actually been identified; when something has, name it. The test: is this the one you'd tell a friend to go to, or a placeholder for "something in this category exists"?
 
-**Research by experience category, not just by destination.** Some destinations organize around recurring experience types rather than one canonical list — Kyoto's temples, a Highland trip's day hikes, Vegas's shows. Where that structure exists, research the category itself: "Zen temples in Kyoto" surfaces real options that "best things to do in Kyoto" won't, since the latter just returns the existing canon. This is what gives Same Magic Fewer Crowds and the Priorities fame-rule real alternatives to work with, rather than nothing beyond the obvious pick — research broadly within the category, then curate narrowly in the writing, same discipline as always. This includes day trips from a base — Tokyo commonly pairs with Nikko, Hakone, or Kamakura — so research the realistic set of options from each base, not just the one or two most cited. Apply this only where a destination genuinely has this structure; don't manufacture a category for a single unmissable site (Petra) or a place too small to have one.
+**Research by experience category, not just by destination.** Some destinations organize around recurring experience types rather than one canonical list — Kyoto's temples, a Highland trip's day hikes, Vegas's shows. Where that structure exists, research the category itself: "Zen temples in Kyoto" surfaces real options that "best things to do in Kyoto" won't, since the latter just returns the existing canon. This is what gives Same Magic Fewer Crowds and the Priorities fame-rule real alternatives to work with, rather than nothing beyond the obvious pick — research broadly within the category, then curate narrowly in the writing, same discipline as always. This includes day trips from a base — Tokyo commonly pairs with Nikko, Hakone, or Kamakura — so research the realistic set of options from each base, not just the one or two most cited. This also includes evaluating well-known extended destinations as genuine candidate bases, not just single-day trips — Yakushima from Kagoshima, for instance, which some travelers build several nights around, not treat as an afterthought. Where a strong candidate doesn't make the final route, name it and give the real reason (pacing, redundancy, logistics) rather than letting it disappear silently. Apply this only where a destination genuinely has this structure; don't manufacture a category for a single unmissable site (Petra) or a place too small to have one.
 
 Confidence is more valuable than completeness — and it should come from informed judgment, not fabricated certainty. When something genuinely varies too much for a confident answer (a live venue's current lineup, a restaurant after a chef change, a temporary exhibition), say so honestly rather than inventing a pick to sound authoritative. A guide that only ever hedges is failing at confidence; a guide that always has an answer is failing at honesty.
 
@@ -226,7 +228,7 @@ This should stay rare and earned, not one per attraction — roughly one per bas
 
 ## Local Knowledge
 
-Alongside historical context, weave in small practical tips at the exact point they're relevant — a car park that fills by mid-morning, a café with seasonal hours, a spot with no signal, a place with no ATM. This differs from the centralized Practicalities chapter, which holds general trip-wide logistics — stop-level tips belong right next to the stop, not filed away in a chapter the traveler has to remember to check. A single bolded "Local knowledge:" line per stop is usually enough.
+Alongside historical context, weave in small practical tips at the exact point they're relevant — a car park that fills by mid-morning, a café with seasonal hours, a spot with no signal, a place with no ATM. This differs from the centralized Practicalities chapter, which holds general trip-wide logistics — stop-level tips belong right next to the stop, not filed away in a chapter the traveler has to remember to check. A single bolded "Local knowledge:" line per stop is usually enough. This means genuinely local insight, not generic advice attached to a place — "photograph your rental car" isn't local knowledge just because it's tied to a stop; it's true everywhere, and belongs in Practicalities if anywhere. The test: would a local know this and a tourist not — a shortcut, better hours after dark, where the good bakery actually is, a perk only regulars know.
 
 ---
 
