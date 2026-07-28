@@ -5,7 +5,7 @@ description: "Generate deeply researched, beautifully curated travel guides with
 
 # Deep Travel Guide
 
-**Version 3.9**
+**Version 4.0**
 
 ---
 
@@ -90,9 +90,17 @@ Apply this only when the trip explicitly says mobility is limited — by age, in
 
 Neither traveler should feel the trip cost them something: the more mobile traveler's experience shouldn't feel reduced to accommodate the other, and the less mobile traveler shouldn't feel blamed for holding the trip back or stuck with lesser options. The split-ticket approach exists precisely so neither version reads as the consolation prize.
 
+## Naming and Framing the Trip
+
+Naming the trip around who's traveling or what they explicitly asked for is always fine — "Hokkaido with Kids," a stated preference for a relaxed pace. Not acceptable: the guide's own inference about a limitation becoming the frame — age read as decline, an unstated assumption about ability or means — even while fully acting on it in the pacing and content. The test: does this state a fact or stated preference, or turn a private judgment about a limitation into the trip's public identity? Adjust freely on the latter; never let it become the title or the pitch.
+
 ## Consistent Micro-Structure
 
 When a section type repeats — itinerary bases, city chapters, accommodation entries — give it a consistent internal order so the traveler learns where information lives without having to relearn the guide's layout each time. A typical base or city chapter might consistently move through: overview, why stay/base here, priority-rated things to do, accommodation, local knowledge, weather considerations, photography, contextual callouts. The exact headings can adapt to the trip, but the same category of information should land in roughly the same relative position every time it recurs. This is what makes a guide navigable mid-trip rather than something the traveler has to search each time.
+
+Present a base's priorities as things to do, not a fixed clock. List them rated, then — only when genuinely useful — suggest a loose way they could group into days, by proximity or shared logistics, explicitly framed as a starting point the traveler can rearrange, not a schedule. Avoid a strict Day 1 / Day 2 structure with fixed times unless the destination genuinely requires that sequencing (a multi-day hike, a fixed-time festival) — most bases don't.
+
+When a base includes a genuine day trip, give it a clearly distinct heading, one tier below the base's own priorities — never the same level as "Priorities in [Base]." Structure every day trip with the same fields so nothing is left to guesswork: half-day or full-day, total travel time, exactly how to get there, the last practical return connection, then its own rated priorities if there's more than one thing to see there.
 
 This pairs with giving every category of information one home rather than scattering it: local practical tips belong in Local Knowledge, weather contingencies in Weather Swap, photo advice in Photography callouts, historical explanation in context boxes, booking urgency in booking guidance. Once something has a home, don't also restate it in the itinerary prose unless doing so genuinely improves clarity in that specific spot — repetition across sections adds length without adding value.
 
@@ -130,6 +138,8 @@ When several similar attractions exist, confidently recommend the one that best 
 
 **Research by experience category, not just by destination.** Some destinations organize around recurring experience types rather than one canonical list — Kyoto's temples, a Highland trip's day hikes, Vegas's shows. Where that structure exists, research the category itself: "Zen temples in Kyoto" surfaces real options that "best things to do in Kyoto" won't, since the latter just returns the existing canon. This is what gives Same Magic Fewer Crowds and the Priorities fame-rule real alternatives to work with, rather than nothing beyond the obvious pick — research broadly within the category, then curate narrowly in the writing, same discipline as always. This includes day trips from a base — Tokyo commonly pairs with Nikko, Hakone, or Kamakura — so research the realistic set of options from each base, not just the one or two most cited. This also includes evaluating well-known extended destinations as genuine candidate bases, not just single-day trips — Yakushima from Kagoshima, for instance, which some travelers build several nights around, not treat as an afterthought. Where a strong candidate doesn't make the final route, name it and give the real reason (pacing, redundancy, logistics) rather than letting it disappear silently. Apply this only where a destination genuinely has this structure; don't manufacture a category for a single unmissable site (Petra) or a place too small to have one.
 
+Before committing multiple nights to a base, verify enough real content exists to fill them at the trip's own pacing standard — a logistics-sound duration (short distances, no wasted transit) isn't automatically a content-sound one. Slow and deliberate is the goal, not empty; if a base's real content can't support the nights given to it, find more of it or shorten the stay, unless the traveler explicitly asked for unstructured downtime.
+
 Confidence is more valuable than completeness — and it should come from informed judgment, not fabricated certainty. When something genuinely varies too much for a confident answer (a live venue's current lineup, a restaurant after a chef change, a temporary exhibition), say so honestly rather than inventing a pick to sound authoritative. A guide that only ever hedges is failing at confidence; a guide that always has an answer is failing at honesty.
 
 Look for experiences that reveal a destination's character rather than just its highlights, and actively look for the kind of discovery that leaves a traveler thinking "I'm so glad someone told me about that" — a famous landmark can earn this as easily as an obscure one; it's about lasting memories, not novelty for its own sake. Examples: local markets, neighborhood walks, historic cafés, scenic local train journeys, village bakeries, a neighborhood pub with real character, a small local tradition or festival, an overlooked viewpoint, an unusual specific museum, places where everyday life can be observed. These often outlast famous landmarks in memory because they show how a place is actually lived.
@@ -140,7 +150,7 @@ Look for experiences that reveal a destination's character rather than just its 
 
 Editorial confidence must be backed by current fact-checking, not memory — a confidently recommended restaurant that closed last year fails the traveler regardless of how well it's written.
 
-Before finalizing, use web search (and a places tool where relevant) to verify: **entry requirements** (visas, e-visas, passport rules, vaccinations, recent policy changes); **seasonal conditions** (weather, typhoon/monsoon seasons, festival or holiday dates within the actual travel window); **prices** (admissions, meals, transport — enough to make the budget real); **hours and closures** for anything named specifically; **booking realities** (what genuinely sells out now, not historically); **safety and advisories**; **transportation specifics** (routes, schedules, booking platforms).
+Before finalizing, use web search (and a places tool where relevant) to verify: **entry requirements** (visas, e-visas, passport rules, vaccinations, recent policy changes); **seasonal conditions** (weather, typhoon/monsoon seasons, festival or holiday dates within the actual travel window, and recurring day-specific events — a weekly market, a day only open certain days — that could reasonably shift how dates are arranged at a given base); **prices** (admissions, meals, transport — enough to make the budget real); **hours and closures** for anything named specifically; **booking realities** (what genuinely sells out now, not historically); **safety and advisories**; **transportation specifics** (routes, schedules, booking platforms).
 
 Scale searches to the trip — a weekend guide needs a handful; a multi-region trip needs research per region, not one search for the whole thing. Run independent searches together rather than one at a time (visa rules, weather, and a region's prices don't depend on each other). Group verification by neighborhood or day rather than by individual place — one search covering a district's typical prices and hours usually suffices; don't spend a separate search per named restaurant unless something specific needs checking.
 
@@ -183,6 +193,10 @@ Common sub-topics, use only what applies:
 - **Connectivity** — when getting online isn't obvious on arrival: local eSIM/SIM, where to buy one, whether roaming already covers it.
 - **Tipping norms** — only where they genuinely differ from what the traveler likely expects.
 - **Water safety** — only where tap water genuinely isn't safe or is ambiguous by region; skip entirely where it's obviously fine.
+
+**City or tourist passes** — when a genuine multi-attraction pass exists and is prominent enough that a traveler would likely encounter it (airport kiosks, hotel desks, every tourism site), address it either way rather than staying silent. Work out the real math for this specific pass and itinerary — the break-even point varies by pass (some reward several paid sites in a day, others a multi-day stay, others bundle transit or skip-the-line access) — rather than applying a fixed threshold. Recommend it with that reasoning when it pays off; say plainly why it doesn't when it falls short, rather than letting the traveler find out themselves. Skip mentioning it only when no such pass exists or it's obscure enough that nobody would encounter it unprompted.
+
+**Closure patterns** — include when a city or region has a common closure day across many attractions (many museums closed Mondays, for instance) — this affects how days get planned broadly, not just one venue's hours.
 
 Add destination-specific items beyond this list as relevant — Japan's IC cards, luggage forwarding, and etiquette; Scotland's midges, ticks, and single-track roads; Vietnam's Grab, street-crossing, and overnight transport. Only what's genuinely relevant to this destination.
 
@@ -302,7 +316,7 @@ For a specific kind of attraction — the ones stamped on every t-shirt and post
 
 # Editorial Standards
 
-Every recommendation should answer why this, why here, why now. Use tables only when they improve readability — but when a trip has several genuinely comparable instances of the same activity type (hikes, historic sites, wineries, temples), build a compact "at a glance" comparison table for that category: name, location, one differentiating dimension, the priority rating, one practical note. This is denser and different from narrative itinerary entries — it's the reference view a traveler returns to mid-trip, and earns a place alongside the narrative rather than instead of it. Avoid repetition; keep formatting clean, elegant, and easy to scan.
+Every recommendation should answer why this, why here, why now. Use tables only when they improve readability — but when a trip has several genuinely comparable instances of the same activity type (hikes, historic sites, wineries, temples), build a compact "at a glance" comparison table for that category: name, location, one differentiating dimension, priority rating, one practical note — all five, not a subset; the rating is the reason the table exists. This is denser and different from narrative itinerary entries — it's the reference view a traveler returns to mid-trip, and earns a place alongside the narrative rather than instead of it. Avoid repetition; keep formatting clean, elegant, and easy to scan.
 
 ---
 
@@ -355,8 +369,8 @@ When the guide is written in a right-to-left language (Hebrew, Arabic), set righ
 Before creating the document:
 
 1. Read `/mnt/skills/public/docx/SKILL.md` and follow it for document creation — it covers headings, styling, and formatting conventions and takes precedence over generic formatting habits.
-2. Structure the document with proper Word heading levels (not markdown `#`) for a usable, navigable document — a table of contents is worth including for guides with several chapters.
-3. Give star ratings, time icons, and booking markers their own visual presence (bold, distinct symbol, or a dedicated table column). Give editorial callout boxes (Skip Without Regret, Slow Down Here, an expanded context explanation, etc.) a shaded background or colored border — a plain-bordered table indistinguishable from a Budget table doesn't count as visually distinct. Lighter inline notes ("Local knowledge:", "📷 Photography:") don't need a full box — reserve that for genuine standalone callouts. "At a glance" tables should read as clean reference tables with no formatting that would break on a phone.
+2. Structure the document with proper Word heading levels (not markdown `#`) for a usable, navigable document. Include an actual table of contents for any guide with more than a handful of chapters — a real navigation aid for a document meant to be referenced mid-trip, not optional polish. Any symbol system in the guide — star ratings, time icons, booking-urgency markers — needs a brief legend near the start explaining what each symbol means; a reader shouldn't have to infer the system from context.
+3. Give star ratings, time icons, and booking markers their own visual presence (bold, distinct symbol, or a dedicated table column). Give editorial callout boxes (Skip Without Regret, Slow Down Here, an expanded context explanation, etc.) a shaded background or colored border — a plain-bordered table indistinguishable from a Budget table doesn't count as visually distinct. Give each named device a consistent bold-italic label and a consistent color throughout the document — the same device always the same color; the specific colors don't matter, consistency does. Bold the name of every rated recommendation. Lighter inline notes ("Local knowledge:", "📷 Photography:") don't need a full box — reserve that for genuine standalone callouts. "At a glance" tables should read as clean reference tables with no formatting that would break on a phone.
 4. Keep tables genuinely necessary; don't convert prose into tables just because a table is available.
 5. Think of every page as something read on a phone, in the rain, mid-walk. It should break naturally into small visual units — headings, bullets, callout boxes, comparison tables, short recommendation blocks — doing most of the organizational work rather than long uninterrupted paragraphs. Uninterrupted walls of text should be uncommon.
 6. Save the finished file to the outputs directory and present it as the deliverable. Don't paste the full guide into the chat response — a short summary is enough, with the document doing the rest of the work.
