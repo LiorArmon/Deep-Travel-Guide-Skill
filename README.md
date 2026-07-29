@@ -2,7 +2,7 @@
 
 A Claude skill for generating deeply researched, beautifully curated travel guides — closer to a professionally written travel book than an AI-generated itinerary.
 
-Built for [Claude](https://claude.com) (claude.ai, Claude Code, Claude Cowork). Drop `SKILL.md` into a skills directory and Claude will use it automatically whenever a trip-planning request comes up.
+Built for [Claude](https://claude.com) (claude.ai, Claude Code, Claude Cowork). Drop this folder into a skills directory and Claude will use it automatically for trip planning, itinerary, or "where should I stay / what should I see" requests.
 
 ## What makes this different from a typical itinerary generator
 
@@ -10,36 +10,47 @@ Most AI travel itineraries maximize attraction count: a list of everything worth
 
 Concretely, the skill:
 
-- **Adapts its structure to the trip** rather than forcing every destination into the same template (weekend city break vs. a 24-night multi-region itinerary produce genuinely different guides)
+- **Adapts its structure to the trip** rather than forcing every destination into the same template (weekend city break vs. a multi-week regional trip produce genuinely different guides)
 - **Verifies facts with live search** rather than relying on training data for prices, hours, visa rules, and seasonal risk
-- **Uses a consistent editorial priority system** (★★★ Essential / ★★☆ Strongly Recommended / ★☆☆ If Convenient) applied to attractions, restaurants, neighborhoods, and accommodation alike
-- **Actively protects against FOMO** — telling a traveler plainly when it's fine to skip something famous, without narrating that it's doing so
+- **Uses a consistent editorial priority system** (★★★ Essential / ★★☆ Strongly Recommended / ★☆☆ If Convenient) applied to attractions, restaurants, neighborhoods, and accommodation alike, with every rating carrying its own justification
+- **Actively protects against FOMO** — a family of named editorial devices (Skip Without Regret, Same Magic Fewer Crowds, What You're Actually Paying For) that tell a traveler plainly when it's fine to skip something famous, redirect to a genuinely comparable alternative, or know what they're actually paying for — without ever narrating that it's doing so
 - **Thinks about emotional pacing**, not just logistical pacing — anticipation, surprise, and rest after intensity, not just avoiding an exhausting schedule
-- **Adapts to themed trips** (a football-focused trip, a food trip, a family trip with kids) by reshaping its standing sections — accommodation, food, practicalities — rather than deleting them
-- **Delivers a finished Word document** (.docx), not a wall of chat text, using Claude's document-creation tools
+- **Adapts to themed trips** (a football-focused trip, a food trip, a family trip with kids, reduced mobility) by reshaping its standing sections — accommodation, food, practicalities — rather than deleting or over-explaining them
+- **Delivers a finished document** — a Word (.docx) file by default, Markdown if a docx tool isn't available — not a wall of chat text
 
 ## Structure
 
 ```
 deep-travel-guide/
-├── SKILL.md      # the skill itself
-└── README.md     # this file
+├── SKILL.md                 # core workflow, philosophy, priorities, writing style, output format
+├── references/
+│   ├── audiences.md         # Traveling with Kids / Traveling with Reduced Mobility — loaded only when relevant
+│   └── devices.md           # full definitions of the 8 editorial decision-support tools
+├── LICENSE
+└── README.md                # this file
 ```
 
-`SKILL.md` is self-contained — there are no supporting scripts or assets. It relies on the host environment providing:
+SKILL.md tells the model exactly when to read each reference file — they aren't optional background reading, they're loaded on an explicit trigger (e.g. "if the trip explicitly involves children... read `references/audiences.md`"). This keeps the resident cost lower for the common case while keeping conditional content reliable rather than something the model has to remember unprompted.
+
+It relies on the host environment providing:
 
 - Web search (for research and verification)
-- Document creation (for the final .docx output)
+- Document creation (for the final .docx output; falls back to Markdown if unavailable)
 - A places/maps tool (optional, for confirming locations)
 
 ## Installation
 
-Copy `SKILL.md` into your skills directory, keeping the folder name `deep-travel-guide`:
+Copy this whole folder into your skills directory, keeping the folder name `deep-travel-guide` and the `references/` subfolder intact:
 
 ```
 your-skills-directory/
 └── deep-travel-guide/
-    └── SKILL.md
+    ├── SKILL.md
+    ├── references/
+    │   ├── audiences.md
+    │   └── devices.md
+    ├── LICENSE
+    └── README.md
 ```
 
 For Claude.ai / Claude Cowork, this typically means uploading the folder as a custom skill. For Claude Code, place it under your project or user-level skills path per the [Claude Code skills documentation](https://docs.claude.com).
@@ -48,9 +59,9 @@ For Claude.ai / Claude Cowork, this typically means uploading the folder as a cu
 
 Just describe the trip:
 
-> Generate a deep travel guide for a 10-day trip to Japan in April — my first visit, mid-range budget, traveling as a couple, interested in food and photography.
+> Plan a 10-day trip to Japan in April — my first visit, mid-range budget, traveling as a couple, interested in food and photography.
 
-The skill will ask clarifying questions only where missing information would materially change the guide, then research, draft, and deliver a finished Word document.
+The skill will ask clarifying questions only where missing information would materially change the guide, then research, draft, and deliver a finished document.
 
 ## Design philosophy
 
@@ -58,7 +69,7 @@ See the top of `SKILL.md` for the full editorial philosophy. The short version: 
 
 ## Version
 
-Current version: 2.0 (see version header inside `SKILL.md`).
+Current version: 5.1 (see version header inside `SKILL.md` — kept in sync with this README on every release).
 
 ## License
 

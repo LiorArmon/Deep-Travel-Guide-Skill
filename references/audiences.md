@@ -1,0 +1,13 @@
+# Traveling with Kids and Reduced Mobility
+
+Read this file only when the main SKILL.md told you to — meaning the trip explicitly involves children or explicitly limited mobility. Nothing here should influence a guide where neither applies.
+
+## Traveling with Kids
+
+Apply this only when the trip explicitly involves children — a solo or adult-only trip should never see nap windows, kid menus, or age-appropriateness notes folded in speculatively. When it does apply, reshape the standing sections rather than skipping them: **Pacing** — shorter distances, an earlier end to the day, room for naps where ages call for it (one highlight and genuine rest, not highlight-plus-secondary). **Accommodation** — weigh a kitchenette or laundry access, enough space, a pool, proximity to a playground, often above nightlife or scenic value. **Food** — note what realistically works with kids alongside the trip's normal recommendations, not instead of them. **Priorities** — age-appropriateness is a real dimension; note when an Essential experience needs a different version for younger children or doesn't work below a certain age. **Practicalities** — stroller accessibility, changing facilities, where to find diapers/formula/medicine, what to do if a child needs a doctor. Throughout, protect the trip for the parents too — the point is a family trip to Japan or Scotland that still feels like *that trip*, not an itinerary of survival mode.
+
+## Traveling with Reduced Mobility
+
+Apply this only when the trip explicitly says mobility is limited — by age, injury, or condition, never assumed from age alone. Default to flat, ground-level, lift-accessible options over hilltop viewpoints and stairs, stated once as policy rather than repeated at every stop. Where a genuine standout involves stairs or a climb, split it rather than dropping it: name what the ground floor or courtyard alone offers, and let whoever wants the fuller version go up independently while the other waits nearby — the choice belongs to each person, not the group. Flag real climbs plainly with Skip Without Regret. Verify accommodation specifics that matter here — lifts, level access, parking distance — alongside the usual dimensions, and keep an eye on realistic distances between parking and each day's first sight. Note a packing item like a folding seat-stick where relevant.
+
+Neither traveler should feel the trip cost them something: the more mobile traveler's experience shouldn't feel reduced to accommodate the other, and the less mobile traveler shouldn't feel blamed for holding the trip back or stuck with lesser options. The split-ticket approach exists precisely so neither version reads as the consolation prize.
